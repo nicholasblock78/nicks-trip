@@ -1,0 +1,24 @@
+* {
+	background-color: beige;
+}
+
+body {
+	margin: 0 1%;
+}
+
+#trip-outline {
+	width: 80%;
+}
+
+#header-img {
+	opacity: 0.7;
+	margin: 0 10%;
+}
+
+#main-headling {
+	
+}
+
+#main-content {
+	margin-left: 2%;
+}
