@@ -5,20 +5,66 @@
 body {
 	margin: 0 1%;
 }
-
-#trip-outline {
+/*----Images-----*/
+#traced-pic {
 	width: 80%;
+	margin: 2% 10% 0 10%;
+}
+#trip-outline figcaption {
+	margin-left: 10%;
 }
 
 #header-img {
-	opacity: 0.7;
+	opacity: 0.6;
 	margin: 0 10%;
 }
 
-#main-headling {
-	
+/*----Header-----*/
+
+#main-headline {
+	font-family: Yellowtail;
+	font-size: 5em;
+	position: relative;
+	top: -185px;
+	left: 33.5%;
+	display: inline-block;
+	background-color: transparent;
 }
 
-#main-content {
-	margin-left: 2%;
+header {
+	height: 475px;
 }
+
+/*----Navigation Bar-----*/
+
+nav {
+	margin-left: 35%;
+	margin-bottom: 2%;
+	position: relative;
+	top: -15px;
+	left: 15px;
+}
+
+
+nav ul li {
+	float: left;
+	margin: 0 1%;
+	list-style-type: none;
+}
+/*----Body-----*/
+
+#main-content {
+	margin-left: 19%;
+}
+
+#main-content p {
+	max-width: 75%;
+	margin-left: 2%;
+	text-align: justify;
+}
+
+h2{
+	clear: both;
+}
+
+
