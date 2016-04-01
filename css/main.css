@@ -5,13 +5,15 @@
 body {
 	margin: 0 1%;
 }
+
 /*----Images-----*/
+
 #traced-pic {
-	width: 80%;
-	margin: 2% 10% 0 10%;
+	width: 60%;
+	margin: 2% 20% 0 20%;
 }
 #trip-outline figcaption {
-	margin-left: 10%;
+	margin-left: 25%;
 }
 
 #header-img {
@@ -51,6 +53,7 @@ nav ul li {
 	margin: 0 1%;
 	list-style-type: none;
 }
+
 /*----Body-----*/
 
 #main-content {
