@@ -9,8 +9,8 @@ body {
 /*----Images-----*/
 
 #traced-pic {
-	width: 60%;
 	margin: 2% 20% 0 20%;
+	width: 60%;
 }
 #trip-outline figcaption {
 	margin-left: 25%;
@@ -24,13 +24,15 @@ body {
 /*----Header-----*/
 
 #main-headline {
+	background-color: transparent;
+	display: inline-block;
 	font-family: Yellowtail;
 	font-size: 5em;
 	position: relative;
 	top: -175px;
 	left: 34.25%;
-	display: inline-block;
-	background-color: transparent;
+	
+	
 }
 
 header {
@@ -50,24 +52,42 @@ nav {
 
 nav ul li {
 	float: left;
-	margin: 0 1%;
 	list-style-type: none;
+	margin: 0 1%;
+	
 }
 
+
 /*----Body-----*/
+#container {
+	width: 100%;
+}
+
+div div {
+	
+}
 
 #main-content {
-	margin-left: 19%;
+	margin-left: ;
 }
 
 #main-content p {
-	max-width: 75%;
-	margin-left: 2%;
 	text-align: justify;
+	width: 50%;
 }
 
 h2{
 	clear: both;
 }
 
+/*----Sidebars-----*/
+.sidebar {
+	width: 25%;
+}
+
+/*----Footer-----*/
+
+footer {
+	clear: both;
+}
 
