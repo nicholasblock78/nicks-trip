@@ -1,7 +1,20 @@
-body {
-	margin: 0 1%;
+* {
+	margin: 0;
+	padding: 0;
+}
+h4 {
+	font-size: 1.5em;
+}
+dt {
+	font-weight: bold;
+}
+dt.NP {
+	color: red;
 }
 
+dd {
+	margin-left: 25px;
+}
 /*----Images-----*/
 
 #traced-pic {
@@ -114,7 +127,7 @@ nav span {
 #main-content {
 	float: left;
 	width: 50%;
-	padding: 1%;
+	padding: 0 1%;
 	display: block;
 }
 
@@ -128,6 +141,7 @@ nav span {
 h2{
 	clear: left;
 	font-family: Oswald;
+	margin-top: 0;
 }
 
 
